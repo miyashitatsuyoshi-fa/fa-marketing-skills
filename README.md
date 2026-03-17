@@ -6,7 +6,7 @@
 
 | スキル名 | 概要 | トリガーとなる依頼例 |
 | :--- | :--- | :--- |
-| [event-lp-seo-cro-audit](./event-lp-seo-cro-audit/SKILL.md) | BtoBイベント・セミナーLPの包括的SEO・CRO監査 | 「このLPのSEO監査をして」「セミナーページのCRO分析をして」 |
+| [event-lp-seo-cro-audit](./SKILL.md) | BtoBイベント・セミナーLPの包括的SEO・CRO監査 | 「このLPのSEO監査をして」「セミナーページのCRO分析をして」 |
 
 ## スキルの使い方
 

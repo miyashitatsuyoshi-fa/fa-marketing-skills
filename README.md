@@ -7,6 +7,7 @@
 | スキル名 | 概要 | トリガーとなる依頼例 |
 | :--- | :--- | :--- |
 | [event-lp-seo-cro-audit](./SKILL.md) | BtoBイベント・セミナーLPの包括的SEO・CRO監査 | 「このLPのSEO監査をして」「セミナーページのCRO分析をして」 |
+| [inside-sales-event-followup-call-script](./inside-sales-event-followup-call-script/SKILL.md) | イベント参加者へのフォローアップ架電スクリプト（状況整理・トーク・注意点・オブジェクションハンドリング）をCRM情報から生成する | 「架電スクリプトを作って」「イベントのフォローアップの電話をしたい」 |
 
 ## スキルの使い方
 

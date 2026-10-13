@@ -7,6 +7,8 @@
 | スキル名 | 概要 | トリガーとなる依頼例 |
 | :--- | :--- | :--- |
 | [event-lp-seo-cro-audit](./SKILL.md) | BtoBイベント・セミナーLPの包括的SEO・CRO監査 | 「このLPのSEO監査をして」「セミナーページのCRO分析をして」 |
+| [delivery-model-web-publisher](./delivery-model-web-publisher/SKILL.md) | 宅配便モデル戦略設計書をビジュアルリッチなシングルページWebサイトとして構築・公開 | 「宅配便モデルの結果をWebサイトにして」「デプロイして」「公開して」 |
+| [event-lead-followup-generator](./event-lead-followup-generator/SKILL.md) | イベントで名刺交換したリード向けフォローアップ資料（メール文面＋架電スクリプト）をSalesforce由来JSONから生成 | 「フォローアップ資料を作って」「架電スクリプトを作って」「イベント後フォロー」 |
 
 ## スキルの使い方
 
